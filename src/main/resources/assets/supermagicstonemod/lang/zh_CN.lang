@@ -1,0 +1,24 @@
+item.super_stone.name=魔法炉石
+item.poor_stone.name=破损的魔法炉石
+item.imperative_stone.name=紧急魔法炉石
+tile.super_fireplace.name=魔法壁炉
+item.super_ashes.name=魔法炉灰
+
+
+info_in_chat.not_binding=此魔法炉石还没有绑定！
+info_in_chat.display_binded=此魔法炉石绑定位置: %1$s
+info_in_chat.binding_success=绑定成功!
+info_in_chat.super_fireplace_not_exists=绑定的位置没有魔法壁炉, 无法传送
+info_in_chat.not_same_world=您现在处于另外一个世界中，无法传送
+
+info_in_chat.canel_by_move=在使用魔法炉石施法的过程中，您移动了位置，施法失败！
+info_in_chat.remain_time=魔法炉石传送中。。。 剩余: %1$s秒
+info_in_chat.super_stone_help=shift右键查看绑定点，shift右键壁炉绑定，右键使用。
+info_in_chat.super_stone_tip=提示：命令/setSupterStoneName <name> 可以对手上的魔法炉石设置标签。
+info_in_chat.not_ashes=您的背包中没有魔法炉灰，无法传送。。。
+
+process_bar.info_str=正在施法...
+
+
+setSuperStoneNameCommand.success=成功!
+setSuperStoneNameCommand.NotSuperStoneInHand=你手上拿的不是魔法炉石。
