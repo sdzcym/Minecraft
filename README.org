@@ -1,4 +1,4 @@
-# Minecraft-like simple game written in Java
+Minecraft-like simple game written in Java
 
 #+ATTR_HTML: width="750"
 #+ATTR_ORG: :width 750
@@ -13,8 +13,6 @@
 #+ATTR_HTML: width="750"
 #+ATTR_ORG: :width 750
 [[file:README/2.png]]
-
-第三层，围上一圈石砖楼梯（注意是 *石砖楼梯* ），方向随意，当然图中摆放的稍微比较好看。最后在顶上再放一个铁栅栏：
 
 #+ATTR_HTML: width="750"
 #+ATTR_ORG: :width 750
